@@ -10,7 +10,7 @@ be wrapped in parentheses. This rule enforces the consistent use of parentheses 
 
 ## Rule Details
 
-This rule enforces parentheses around arrow function parameters regardless of arity. For example:
+This rule enforces parentheses around arrow function parameters regardless of clarity. For example:
 
 ```js
 // Bad
